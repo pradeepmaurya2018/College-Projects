@@ -15,5 +15,4 @@ class Node
 public class MyClass {
 	
 	Node root= new Node(1);
-	root.left=new Node(2);
 }
